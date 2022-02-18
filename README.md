@@ -1,15 +1,15 @@
-# Discordeno Bot Template
+# これは何
 
-![Log Image](https://i.imgur.com/09skKfz.png)
+Deno のお勉強も兼ねて DiscordBot の作り直しをしています。
 
-This repo is meant as a template which you can use to create a Discord bot very
-easily using the
-[Discordeno library (`v13`)](https://github.com/discordeno/discordeno).
+# 参考
 
-[Website/Guide](https://discordeno.mod.land/)
+# その他
 
-[Discord Server](https://discord.com/invite/5vBgXk3UcZ)
+このソフトウェアは、 [Apache 2.0 ライセンス](http://www.apache.org/licenses/LICENSE-2.0)で配布されている製作物が含まれています。
 
-# MOVED!
+This software includes the work that is distributed in the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-This repository has been moved to https://github.com/discordeno/discordeno/tree/main/template. Every PR which gets opened in this Repository will be ignored and closed. Please open the PR in the main Repository.
+以下を利用しています。
+
+- https://github.com/discordeno/template
